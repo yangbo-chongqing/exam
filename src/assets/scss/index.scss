@@ -1,0 +1,18 @@
+html {zoom:1;height: 100%;}
+html * {outline:0;zoom:1;}
+body { color:rgba(255, 255, 255, .5); font-family:Verdana, Arial, Helvetica, sans-serif; line-height:22px; font-size:13px; background:#000;height: 100%;}
+a { color:rgba(255, 255, 255, .5); outline:none; text-decoration:none;} 
+a:hover { text-decoration:underline; color: rgba(#fff, 1);}
+html button::-moz-focus-inner{border-color:transparent!important;}
+body {overflow-x: hidden;}
+* {margin:0;padding:0;} 
+p {margin:0 0 10px 0;}
+a img {border:0;} 
+address,caption,cite,code,dfn,em,th,var{font-style:normal;font-weight:normal;}
+li { list-style-position:inside;}
+caption,th {text-align:left;} 
+h1,h2,h3,h4,h5,h6 {font-weight:normal;}
+q:before,q:after{content:'';}
+hr{border:none; clear:both; height:0; background:none; margin:0; padding:0; border-bottom:#eee solid 1px;}
+.cl-primary {color: #3c66b5;}
+
